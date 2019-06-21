@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebApplication1/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication1/Default.aspx.vb))
 <!-- default file list end -->
 # How to customize the Appointment Dialog using View Model API (working with custom fields)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t581547/)**
+<!-- run online end -->
 
 
 <p>View Model API enables you to customize dialog element characteristics (values, availability, and a layout) as needed, without the necessity of overriding <a href="http://help_db/ReferenceBrowserMain_17_2/LoadItem.aspx?Member=T%3aDevExpress.Web.ASPxScheduler.ASPxScheduler&Template=ClassTopic">ASPxScheduler</a>'s commands and copying dialog form templates (UserControls) into your project.</p>
